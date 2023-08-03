@@ -1,0 +1,15 @@
+```
+
+theme: minima
+title: The title of your site
+
+ 
+
+base_url: /donnalangillephd
+
+ 
+
+header_pages:
+  - file.md
+
+```
